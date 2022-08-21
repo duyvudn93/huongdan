@@ -18,7 +18,7 @@ Window {
             text : "Choose File or Folder"
             anchors.horizontalCenter: parent.horizontalCenter
             onClicked: {
-                fileDialogId.open()
+                fileDialogId.open()êf
             }
         }
 
