@@ -12,7 +12,7 @@ Window {
 
     Column {
         spacing: 20
-        anchors.centerIn: parentddđs
+        anchors.centerIn: parentddđsssssssssssssssss
 
         Button{
             text : "Choose File or Folder"
